@@ -1,3 +1,5 @@
+# Important
+
 IMPORTANT READ ME!!!!!
 
 IN ORDER TO GET THE PROGRAM TO COMPILE VOSK MUST BE INSTALLED (pip install vosk in CMD line)
