@@ -1,11 +1,11 @@
 # Important
 
-Vosk must be installed to run the program
+Vosk must be installed to run the program, run the following command on Linux/MAC/Windows with pip
 ```
-pip install vosk
+pip3 install vosk
 ```
-
-AND A MODEL MUST BE DOWNLOADED (https://alphacephei.com/vosk/models)
+Download a model from alphacephei using the following link
+> (https://alphacephei.com/vosk/models)
 
 # Voice Assistannt
 
