@@ -4,7 +4,7 @@ Voice recognition assistant programmed for fun, inspired by AI systems like Alex
 
 # Important
 
-Vosk must be installed to run the program, run the following command on Linux/MAC/Windows with pip
+Vosk must be installed to run the program, run the following command on Windows with pip
 ```
 pip3 install vosk
 ```
